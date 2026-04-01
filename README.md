@@ -19,7 +19,7 @@
 - [Key Learnings](#key-learnings)
 - [Future Improvements](#future-improvements)
 - [Repository Structure](#repository-structure)
-- [Author](#-author)
+- [Author](#author)
 
 ---
 
@@ -28,8 +28,6 @@
 This project was developed as part of a data analytics consulting engagement for the **Board of Control for Cricket in India (BCCI)**. The goal was to extract actionable insights from historical cricket match data and build machine learning models capable of predicting whether the Indian Cricket Team will **Win** or **Lose** a given match.
 
 Beyond model building, the project also delivers **unique, match-specific strategies** for India's upcoming fixtures across different opponents, formats, and conditions — making this a practical, business-ready solution rather than a purely academic exercise.
-
-👉 [Open the notebook to explore full analysis](notebook/BCCI_Cricket_Win_Prediction.ipynb)
 
 ---
 
@@ -176,22 +174,38 @@ Higher `Audience_number` strongly correlates with wins. BCCI can use this to jus
 ## Skills
 
 ### Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supervised Machine Learning](https://img.shields.io/badge/Supervised_ML-0078D4?style=for-the-badge&logo=azure-machine-learning&logoColor=white)
+![Classification Algorithms](https://img.shields.io/badge/Classification_Algorithms-6C3483?style=for-the-badge&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-2E86C1?style=for-the-badge&logoColor=white)
+![Decision Tree](https://img.shields.io/badge/Decision_Tree-28B463?style=for-the-badge&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-E74C3C?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-77AC1D?style=for-the-badge&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Exploratory Data Analysis](https://img.shields.io/badge/Data_Analysis-FFA500?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-FFA500?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Bivariate Analysis](https://img.shields.io/badge/Bivariate_Analysis-1ABC9C?style=for-the-badge&logoColor=white)
+![Feature Importance](https://img.shields.io/badge/Feature_Importance-8E44AD?style=for-the-badge&logoColor=white)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-D35400?style=for-the-badge&logoColor=white)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-2980B9?style=for-the-badge&logoColor=white)
+![ROC-AUC · Threshold Optimization](https://img.shields.io/badge/ROC--AUC_·_Threshold_Optimization-C0392B?style=for-the-badge&logoColor=white)
+![VIF · Multicollinearity Treatment](https://img.shields.io/badge/VIF_·_Multicollinearity_Treatment-7D3C98?style=for-the-badge&logoColor=white)
+![Missing Value Imputation](https://img.shields.io/badge/Missing_Value_Imputation-16A085?style=for-the-badge&logoColor=white)
+![Outlier Treatment (IQR)](https://img.shields.io/badge/Outlier_Treatment_(IQR)-E67E22?style=for-the-badge&logoColor=white)
+![Data-Driven Storytelling](https://img.shields.io/badge/Data--Driven_Storytelling-2C3E50?style=for-the-badge&logoColor=white)
+![Business Recommendations](https://img.shields.io/badge/Business_Recommendations-1F618D?style=for-the-badge&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Soft Skills
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4B0082?style=for-the-badge&logo=mindmap&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-25D366?style=for-the-badge&logo=google-messages&logoColor=white)
+![Strategic Thinking](https://img.shields.io/badge/Strategic_Thinking-1A5276?style=for-the-badge&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-25D366?style=for-the-badge&logo=google-messages&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF4500?style=for-the-badge&logo=brainly&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-00CED1?style=for-the-badge&logo=google-search-console&logoColor=white)
+![Domain Translation](https://img.shields.io/badge/Domain_Translation-6C3483?style=for-the-badge&logoColor=white)
+![Analytical Reasoning](https://img.shields.io/badge/Analytical_Reasoning-4B0082?style=for-the-badge&logoColor=white)
+![Business Acumen](https://img.shields.io/badge/Business_Acumen-D4AC0D?style=for-the-badge&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-00CED1?style=for-the-badge&logoColor=white)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-2E86C1?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -222,19 +236,19 @@ Higher `Audience_number` strongly correlates with wins. BCCI can use this to jus
 cricket-win-prediction-bcci-ml/
 │
 ├── data/
-│   ├── Comp_Fin_Data.csv                             # Corporate financial dataset (Part A)
-│   └── Market_Risk_Data.csv                          # Stock price dataset (Part B)
+│   └── Sports Data.xlsx                                        # BCCI historical match dataset
 │
-├── notebook/
-│   └── finance-retail-analytics-using-python.ipynb   # Analysis notebook
+├── notebooks/
+│   ├── Cricket_Win_Prediction_EDA.ipynb                        # Exploratory Data Analysis notebook
+│   └── Cricket_Win_Prediction_Machine_Learning.ipynb           # Model building & evaluation notebook
 │
-├── README.md                                         # Project documentation
-├── LICENSE                                           # License file
-└── .gitignore                                        # Git ignore file
+├── README.md                                                    # Project documentation
+├── LICENSE                                                      # MIT License
+└── .gitignore                                                   # Git ignore rules
 ```
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nabankur Ray**
 
